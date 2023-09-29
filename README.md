@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Ziidan Afkar Maula</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/linkdn-banner.png"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQEB7KVss4e2_Q/profile-displaybackgroundimage-shrink_350_1400/0/1691500291672?e=1701302400&v=beta&t=ht-zlXrv7lWRxZr-ysw40fpmdeld6LjDRZ2SdbStvvo"> </div>
 <h3 align="center">I am a studen and passionate about software development</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
