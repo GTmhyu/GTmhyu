@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Ziidan Afkar Maula</h1>
-<div align="center"> <img src="https://img1.picmix.com/output/stamp/normal/3/9/5/6/16593_58c50.gif"> </div>
+<div align="center"> <img src="https://onlinegiftools.com/images/examples-onlinegiftools/hadouken.gif"> </div>
 <h3 align="center">I am a studen and passionate about software development</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
