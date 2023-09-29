@@ -1,9 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Ziidan Afkar Maula</h1>
-<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQEB7KVss4e2_Q/profile-displaybackgroundimage-shrink_350_1400/0/1691500291672?e=1701302400&v=beta&t=ht-zlXrv7lWRxZr-ysw40fpmdeld6LjDRZ2SdbStvvo"> </div>
+<div align="center"> <img src="[https://media.licdn.com/dms/image/D5616AQEB7KVss4e2_Q/profile-displaybackgroundimage-shrink_350_1400/0/1691500291672?e=1701302400&v=beta&t=ht-zlXrv7lWRxZr-ysw40fpmdeld6LjDRZ2SdbStvvo](https://img1.picmix.com/output/stamp/normal/3/9/5/6/16593_58c50.gif)"> </div>
 <h3 align="center">I am a studen and passionate about software development</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GTmhyu&label=Profile%20views&color=0e75b6&style=flat" alt="GTmhyu" /> </p>
 
 - 🔭 I'm currently studying [Politeknik Harapan Bersama](https://poltekharber.ac.id/?gclid=CjwKCAjwyNSoBhA9EiwA5aYlb4YdrbBAm01LuhTaEtlZpV4Zvl2OPbv6R31DoHKy7KyGqRBQrpatCBoCjUwQAvD_BwE)
 
