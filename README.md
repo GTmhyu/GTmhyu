@@ -30,10 +30,8 @@
 <a href="#">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GTmhyu&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GTmhyu&theme=gruvbox&hide_border=true" />
-    
   </a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GTmhyu&" alt="GTmhyu" /></p>
+  <img width="36.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GTmhyu&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GTmhyu&limit=5&theme=flat&combine_all_yearly_contributions=true)
