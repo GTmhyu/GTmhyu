@@ -34,4 +34,8 @@
   <img width="36.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GTmhyu&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GTmhyu&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<br>
+
+[![Ziidan Afkar Maula Trips' activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GTmhyu&theme=react-dark&custom_title=Ziidan%20Afkar%20Maula%20Activity%20Graph&hide_border=true)] <br>
+
+<br>
