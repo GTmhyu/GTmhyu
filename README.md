@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Ziidan Afkar Maula</h1>
 <div align="center"> <img src="https://onlinegiftools.com/images/examples-onlinegiftools/hadouken.gif"> </div>
 <h3 align="center">I am a studen and passionate about software development</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iHmhywCIPiAAAAAC/kodok-acumalaka.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GTmhyu&label=Profile%20views&color=0e75b6&style=flat" alt="GTmhyu" /> </p>
 
