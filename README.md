@@ -7,9 +7,9 @@
 
 - 🔭 I'm currently studying [Politeknik Harapan Bersama](https://poltekharber.ac.id/?gclid=CjwKCAjwyNSoBhA9EiwA5aYlb4YdrbBAm01LuhTaEtlZpV4Zvl2OPbv6R31DoHKy7KyGqRBQrpatCBoCjUwQAvD_BwE)
 
-- 👯 I’m looking to collaborate on [Creating_SPK_with_larave] (https://github.com/GTmhyu/Creating_SPK_with_laravel)
+- 👯 I’m looking to collaborate on [Design_AI] (https://github.com/GTmhyu/Project_Design_Kaos)
 
-- 🤝 I’m looking for help with [Desain kaos AI] (https://github.com/GTmhyu/Desain_Kaos_AI_Implement)
+- 🤝 I’m looking for help with [Ai Companion] (https://github.com/GTmhyu/ai-companion)
 
 - 🌱 I’m currently learning **React.JS,Flutter,Flask**
 
