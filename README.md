@@ -35,6 +35,6 @@
 ### 🔝 Top Contributed Repo
 <br>
 
-[![Ziidan Afkar Maula Trips' activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GTmhyu&theme=react-dark&custom_title=Ziidan%20Afkar%20Maula%20Activity%20Graph&hide_border=true)] <br>
+[Ziidan Afkar Maula Trips' activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GTmhyu&theme=react-dark&custom_title=Ziidan%20Afkar%20Maula%20Activity%20Graph&hide_border=true) <br>
 
 <br>
