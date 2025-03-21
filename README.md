@@ -5,15 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GTmhyu&label=Profile%20views&color=0e75b6&style=flat" alt="GTmhyu" /> </p>
 
-- 🔭 I'm currently studying [Politeknik Harapan Bersama](https://poltekharber.ac.id/?gclid=CjwKCAjwyNSoBhA9EiwA5aYlb4YdrbBAm01LuhTaEtlZpV4Zvl2OPbv6R31DoHKy7KyGqRBQrpatCBoCjUwQAvD_BwE)
-
-- 👯 I’m looking to collaborate on [Design_AI] (https://github.com/GTmhyu/Project_Design_Kaos)
-
-- 🤝 I’m looking for help with [Ai Companion] (https://github.com/GTmhyu/ai-companion)
+- 🔭 I'm currently studying [Tryhackme](https://tryhackme.com/)
 
 - 🌱 I’m currently learning **React.JS,Flutter,Flask**
 
-- 💬 Ask me about **China and rusia xixixi~**
+- 💬 Ask me about **Malware Trend**
 
 - 📫 How to reach me **mhyu.stnd@gmail.com**
 
