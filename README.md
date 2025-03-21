@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Ziidan Afkar Maula</h1>
 <div align="center"> <img src="https://pa1.aminoapps.com/6165/3dc5756e548d97333d44e6dbf9ba9e7dd8a4ecaf_hq.gif"> </div>
-<h3 align="center">I am a student and passionate about all role developer</h3>
+<h3 align="center">I am a student and passionate about Cybersecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/M3lexDdZRTEAAAAd/pixel-art.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GTmhyu&label=Profile%20views&color=0e75b6&style=flat" alt="GTmhyu" /> </p>
